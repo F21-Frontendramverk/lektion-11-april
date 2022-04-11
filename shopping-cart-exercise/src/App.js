@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header />
+      <Header cartCounter={ cart.length } />
       <section className='products'>
         { productItems }
       </section>

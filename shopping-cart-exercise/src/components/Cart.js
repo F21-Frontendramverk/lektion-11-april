@@ -1,8 +1,10 @@
-function Cart() {
+function Cart(props) {
+    const { cartCounter } = props;
+
     return (
         <section>
             <a href="#">Cart</a>
-            <span>0</span>
+            <span>{ cartCounter }</span>
         </section>
     )
 }

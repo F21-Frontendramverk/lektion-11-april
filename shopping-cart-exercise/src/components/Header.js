@@ -1,9 +1,11 @@
 import Cart from "./Cart";
 
-function Header() {
+function Header(props) {
+    const { cartCounter } = props;
+    
     return (
         <header>
-            <Cart />
+            <Cart cartCounter={ cartCounter } />
         </header>
     )
 }
