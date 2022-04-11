@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="App">
-      <section>
+      <section className='products'>
         { productItems }
       </section>
     </div>
