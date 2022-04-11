@@ -2,6 +2,10 @@
 
 ## Övningar
 
+Pixel editor: https://gist.github.com/zocom-christoffer-wallenberg/f8c998be8558d9e32d138fad6339540d
+
+Jokes: https://gist.github.com/zocom-christoffer-wallenberg/eb1f3e53334448428b1076d18c874f27
+
 ## Artiklar
 
 ## Videor
