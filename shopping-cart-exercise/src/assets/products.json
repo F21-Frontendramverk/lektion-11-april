@@ -1,21 +1,21 @@
 [
     {
-        "titel": "A Sign of Four",
+        "title": "A Sign of Four",
         "author": "Sir Arthur Conan Doyle",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, unde distinctio? Officia sed sit tempora. Vitae tenetur deleniti maiores beatae, inventore commodi! Est nihil adipisci iusto minus, magnam blanditiis temporibus."
     },
     {
-        "titel": "A Study in Scarlet",
+        "title": "A Study in Scarlet",
         "author": "Sir Arthur Conan Doyle",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, unde distinctio? Officia sed sit tempora. Vitae tenetur deleniti maiores beatae, inventore commodi! Est nihil adipisci iusto minus, magnam blanditiis temporibus."
     },
     {
-        "titel": "Baskervilles Hound",
+        "title": "Baskervilles Hound",
         "author": "Sir Arthur Conan Doyle",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, unde distinctio? Officia sed sit tempora. Vitae tenetur deleniti maiores beatae, inventore commodi! Est nihil adipisci iusto minus, magnam blanditiis temporibus."
     },
     {
-        "titel": "The Adventures of Sherlock Holmes",
+        "title": "The Adventures of Sherlock Holmes",
         "author": "Sir Arthur Conan Doyle",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, unde distinctio? Officia sed sit tempora. Vitae tenetur deleniti maiores beatae, inventore commodi! Est nihil adipisci iusto minus, magnam blanditiis temporibus."
     }

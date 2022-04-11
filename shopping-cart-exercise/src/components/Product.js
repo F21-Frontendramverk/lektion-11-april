@@ -9,7 +9,7 @@ function Product(props) {
 
     return (
         <article className='product'>
-            <h2>{ productInfo.titel }</h2>
+            <h2>{ productInfo.title }</h2>
             <h3>{ productInfo.author }</h3>
             <p>{ productInfo.text }</p>
             <button className='product__button'
